@@ -1,0 +1,13 @@
+1. bubble sort.
+length => nums.size().
+
+for(){
+    for(){
+        if(arr[j]<=arr[j+1]){
+        }else{
+            int temp = arr[j];
+            arr[j] = arr [j+1];
+            arr[j+1] = temp;
+        }
+    }
+}
